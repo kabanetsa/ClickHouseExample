@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClickHouseExample", "ClickHouseExample.csproj", "{FB8B0EBB-C10C-4156-817B-AF50F18454E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8B0EBB-C10C-4156-817B-AF50F18454E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8B0EBB-C10C-4156-817B-AF50F18454E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8B0EBB-C10C-4156-817B-AF50F18454E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8B0EBB-C10C-4156-817B-AF50F18454E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E00F3E00-7FE0-4DF1-B797-46B77CAA50CC}
+	EndGlobalSection
+EndGlobal

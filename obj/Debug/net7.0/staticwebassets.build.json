@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kI7JKZ7DsONuEsqsT4PSw5qGoaPip8zpY8qn4Cb4tuU=",
+  "Source": "ClickHouseExample",
+  "BasePath": "_content/ClickHouseExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
